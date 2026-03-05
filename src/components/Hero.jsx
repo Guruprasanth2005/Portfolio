@@ -18,7 +18,7 @@ const Hero = () => {
         transition={{ delay: 0.5 }}
         className="mt-4 max-w-xl text-gray-700"
       >
-        Full Stack Developer | React | Spring Boot | ASP.NET Core
+      Software Engineer | Full Stack Engineer | React | Spring Boot | ASP.NET Core
       </motion.p>
     </section>
   );
