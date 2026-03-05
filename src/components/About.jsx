@@ -20,8 +20,8 @@ const About = () => {
           transition={{ delay: 0.3, duration: 0.8 }}
           className="mb-6 text-gray-700 leading-relaxed"
         >
-          I am a highly motivated final-year B.Tech Information Technology
-          student with strong expertise in <span className="text-blue-600 font-medium">Full Stack Development</span>,
+          I am a highly motivated  B.Tech Information Technology Graduate
+           with strong expertise in <span className="text-blue-600 font-medium">Full Stack Development</span>,
           <span className="text-blue-600 font-medium"> REST API Development</span>,
           and modern web technologies. I am passionate about designing and
           building scalable, secure, and user-friendly web applications that
